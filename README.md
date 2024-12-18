@@ -37,7 +37,7 @@
 * `pkg install python`
 * `pkg install python2`
 * `pkg install git`
-* `git clone https://github.com/xploitstech/Xteam`
+* `git clone https://github.com/Dendiplsr04/XteamTools.git`
 * `ls`
 * `cd Xteam`
 * `pip3 install -r requirements.txt`
@@ -50,7 +50,7 @@
 * `sudo apt install python`
 * `sudo apt install python2`
 * `sudo apt install git`
-* `git clone https://github.com/xploitstech/Xteam`
+* `git clone https://github.com/Dendiplsr04/XteamTools.git`
 * `ls`
 * `cd Xteam`
 * `pip3 install -r requirements.txt`
